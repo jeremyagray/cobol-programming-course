@@ -19,7 +19,7 @@ You can use [pandoc](https://pandoc.org/) to convert the markdown files provided
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-All contributions must align with the [Open Mainframe Project contribution guidelines](https://github.com/openmainframeproject/tac/blob/master/process/contribution_guidelines.md), including having a DCO signoff on all commits.
+All contributions must align with the [Open Mainframe Project contribution guidelines](https://github.com/openmainframeproject/tac/blob/master/process/contribution_guidelines.md), including having a DCO sign-off on all commits.
 
 # Discussion
 
@@ -31,9 +31,9 @@ You can connect with the community in a variety of ways...
 
 ## Providers
 
-These materials are being used by other organizations to provide COBOL training to the community. This project, nor Open Mainframe Project, doesn't endorse any one of these particular providers. If you are using these materials in your training materials, feel free [to edit and issue a pull request](https://github.com/openmainframeproject/cobol-programming-course/edit/governance-docs/README.md) to have it included.
+These materials are being used by other organizations to provide COBOL training to the community. Neither this project, nor the Open Mainframe Project, endorses any one of these particular providers. If you are using these materials in your training materials, feel free [to edit and issue a pull request](https://github.com/openmainframeproject/cobol-programming-course/edit/governance-docs/README.md) to have it included.
 
-- IBM is provided a [free environment for completing the labs](http://ibm.biz/cobollabs).
+- IBM has provided a [free environment for completing the labs](http://ibm.biz/cobollabs).
 
 ## Governance
 
