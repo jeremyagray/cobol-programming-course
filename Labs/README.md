@@ -11,7 +11,7 @@ Notes:
 
 **cbl** folder
 
-- copy cobol source members into student id.CBL partitioned data set name
+- copy COBOL source members into student id.CBL partitioned data set name
 
 **jcl** folder 
 
