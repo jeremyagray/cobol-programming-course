@@ -8,7 +8,7 @@ This project is a set of training materials and labs for a "Getting Started" lev
 
 There are two sets of materials available
 
-- [Chapters](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.pdf) which contain the lessons, broken up into chapters.
+- [Chapters](https://github.com/openmainframeproject/cobol-programming-course/blob/master/COBOL%20Programming%20with%20VSCode.md) which contain the lessons, broken up into chapters.
 - [Labs](https://github.com/openmainframeproject/cobol-programming-course/tree/master/Labs) which contain the source code used in the chapters.
 
 ## Build
@@ -31,7 +31,7 @@ You can connect with the community in a variety of ways...
 
 ## Providers
 
-These materials are being used by other organizations to provide COBOL training to the community. Neither this project, nor the Open Mainframe Project, endorses any one of these particular providers. If you are using these materials in your training materials, feel free [to edit and issue a pull request](https://github.com/openmainframeproject/cobol-programming-course/edit/governance-docs/README.md) to have it included.
+These materials are being used by other organizations to provide COBOL training to the community. Neither this project, nor the Open Mainframe Project, reviews, maintains, or endorses any one of these particular providers. If you are using these materials in your training materials, feel free [to edit and issue a pull request](https://github.com/openmainframeproject/cobol-programming-course/edit/governance-docs/README.md) to have it included.
 
 - IBM has provided a [free environment for completing the labs](http://ibm.biz/cobollabs).
 
@@ -41,4 +41,4 @@ This project is openly governed as defined in [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Credits
 
-The courseware materials were developed leveraging grant funds made available through American River College and proposed as a new project by IBM.
+The courseware materials were made available through a joint collaboration of IBM, its clients, and American River College and proposed as a new project by IBM.
